@@ -1,6 +1,6 @@
 # xtjk-decrypt-mp
 
-基于 [decrypt-core](https://github.com/JohnieXu/decrypt-core) 的微信小程序使用示例
+[decrypt-core](https://github.com/JohnieXu/decrypt-core) 库在微信小程序中的使用示例
 
 ## 截图
 
