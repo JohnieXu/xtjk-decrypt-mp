@@ -21,7 +21,4 @@
       <button bindtap="bindDecrypt">测试解密</button>
     </block>
   </view>
-  <view class="usermotto">
-    <text class="user-motto">{{motto}}</text>
-  </view>
 </view>
