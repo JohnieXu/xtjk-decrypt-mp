@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "decrypt-core": "^1.1.4"
+    "decrypt-core": "^1.2.1"
   }
 }
